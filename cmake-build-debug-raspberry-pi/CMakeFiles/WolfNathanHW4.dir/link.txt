@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/WolfNathanHW4.dir/main.cpp.o CMakeFiles/WolfNathanHW4.dir/Knight.cpp.o CMakeFiles/WolfNathanHW4.dir/Log.cpp.o CMakeFiles/WolfNathanHW4.dir/Rabbit.cpp.o  -o WolfNathanHW4 

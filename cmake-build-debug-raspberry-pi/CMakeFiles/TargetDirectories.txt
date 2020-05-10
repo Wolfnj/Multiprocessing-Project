@@ -1,0 +1,3 @@
+/home/pi/os/WolfNathanHW4/cmake-build-debug-raspberry-pi/CMakeFiles/rebuild_cache.dir
+/home/pi/os/WolfNathanHW4/cmake-build-debug-raspberry-pi/CMakeFiles/WolfNathanHW4.dir
+/home/pi/os/WolfNathanHW4/cmake-build-debug-raspberry-pi/CMakeFiles/edit_cache.dir
